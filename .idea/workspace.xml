@@ -1,0 +1,1253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68376f7c-7991-4965-b6ff-7a5344cdcac2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/4.6/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.6/fileContent/annotation-processors.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.6/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/taskJars.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.4.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcsWorkingDirs/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__Users_0091f_AppData_Local_Android_Sdk_build_tools_28_0_3_renderscript_lib_renderscript_v8_jar_unspecified_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cardview_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_monitor_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_rules_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_transition_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_devlight_shadowlayout_library_1_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_7_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_8_8_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_annotations_8_8_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_logging_interceptor_3_10_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_10_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_retrofit2_converter_gson_2_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_retrofit2_retrofit_2_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_altbeacon_android_beacon_library_2_15_4_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jsoup_jsoup_1_13_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_core_1_10_19_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cenzer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NimbusLit-Updated24thJune.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/cenzer/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/fonts/hamerslag.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/fonts/sf_pro_text_medium.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/fonts/sf_pro_text_regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/ic_launcher-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/Activities/AppHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/Activities/SplashActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/AddDeviceListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/AddDeviceSpinerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/CreateGroupAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/DashboardItemAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/EditGroupAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/GroupAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/GroupedLightAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/IndividualLightAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/LightListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/AsynchStorage/AdvertiseBeacon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/Constant/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/CustomView/BlurLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/CustomView/HeaderText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/CustomView/LogoText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/CustomView/NonScrollListView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/CustomView/NormalText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/CustomView/RoundLinerLayoutNormal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/CustomView/WhiteUnderLineEdit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/DatabaseModule/DatabaseConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/DatabaseModule/SqlHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/EncodeDecodeModule/ArrayUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/EncodeDecodeModule/Base64Encode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/EncodeDecodeModule/ByteQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/EncodeDecodeModule/MyBase64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/EncodeDecodeModule/RxMethodType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/EncodeDecodeModule/TxMethodType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/AddDeviceFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/CreateGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/CustomizeGroupFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/CustomizeLightFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/DashboardFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/DashboardFragmentBackUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/EditDeviceFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/EditGroupFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/GroupFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/UpdateLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/HelperActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/InterfaceModule/AdvertiseResultInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/InterfaceModule/MyBeaconScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/InterfaceModule/ReceiverResultInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/PogoClasses/BeconDeviceClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/PogoClasses/DeviceClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/PogoClasses/GroupDetailsClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/PogoClasses/GroupedLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/ReceiverModule/BLEBroadcastReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/ServiceModule/AdvertiseServiceClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/ServiceModule/AdvertiseTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/ServiceModule/MyBeaconTransmitter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/ServiceModule/ReceiverTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/ServiceModule/ScannerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/ServiceModule/ScannerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/cenzer/ServiceModule/ScanningBeacon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/color/button_text_color.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/color/button_text_color_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/color/button_tint_color.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/color/menu_item_text_color.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/rounded_button_yellow2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/add_corner_back.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/focused_backed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_add.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_creativity.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_delete.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_demo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_groups.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_home_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_home_setting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_my_network.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_notifications_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_save.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/img_seekbar_bg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/img_seekbar_progress_blue.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/message_back.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rounded_button_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rounded_button_yellow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rounded_gray_border.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sback.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/seekbar_progress.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/seekbar_progress_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/shadow1_back.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/shadow_14.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/shadow_15.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/shadow_16.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/shadow_add_back.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/shadow_add_back_2.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/shadow_back_ground.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/shadow_in_back.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/shadowback.9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/switch_thumb_back.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/switch_track_back.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/white_border_back.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/white_circle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/white_circle_border.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/yellow_circle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/font/alef.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/font/sf_pro_text_medium.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_helper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/add_device_dialog_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/add_device_spinner_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/addspinerlayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/create_group_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/customize_device_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/customize_group.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/customize_grouped_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/customize_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/dashboard_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/device_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/edit_group_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_add_device.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_create_group.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_customize_group.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_customize_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_dashboard.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_edit_device.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_edit_group.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_group.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_update_light.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/group_device_text.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/group_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/grouped_light_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/light_device_details.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/light_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/non_scroll_listitem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/spinerlayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/navigation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/font_certs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/preloaded_fonts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/cenzer/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blurkit/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blurkit/blurkit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blurkit/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blurkit/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blurkit/src/androidTest/java/io/alterac/blurkit/BlurKitInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blurkit/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blurkit/src/main/java/io/alterac/blurkit/BlurKit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blurkit/src/main/java/io/alterac/blurkit/BlurKitException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blurkit/src/main/java/io/alterac/blurkit/BlurLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blurkit/src/main/java/io/alterac/blurkit/RoundedImageView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blurkit/src/main/res/drawable/original_bk_logo.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blurkit/src/main/res/values/attrs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blurkit/src/test/java/io/alterac/blurkit/BlurLayoutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blurkit/src/test/java/io/alterac/blurkit/RoundedImageViewTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/jellytogglebutton.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/androidTest/java/com/nightonke/jellytogglebutton/ApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/ColorChangeTypes/ColorChangeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/CubicBezier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseInBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseInBounce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseInCirc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseInCubic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseInElastic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseInExpo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseInOutBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseInOutBounce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseInOutCirc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseInOutCubic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseInOutElastic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseInOutExpo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseInOutQuad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseInOutQuart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseInOutQuint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseInOutSine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseInQuad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseInQuart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseInQuint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseInSine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseOutBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseOutBounce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseOutCirc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseOutCubic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseOutElastic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseOutExpo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseOutQuad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseOutQuart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseOutQuint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseOutSine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/EaseType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/EaseTypes/Linear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/JellyToggleButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/JellyTypes/ActiveStiffFatty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/JellyTypes/ActiveStiffSlimJim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/JellyTypes/ActiveTrembleBodyFatty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/JellyTypes/ActiveTrembleBodySlimJim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/JellyTypes/ActiveTrembleHeadFatty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/JellyTypes/ActiveTrembleHeadSlimJim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/JellyTypes/ActiveTrembleTailFatty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/JellyTypes/ActiveTrembleTailSlimJim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/JellyTypes/Itself.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/JellyTypes/Jelly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/JellyTypes/JellyStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/JellyTypes/LazyStiffFatty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/JellyTypes/LazyStiffSlimJim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/JellyTypes/LazyTrembleBodyFatty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/JellyTypes/LazyTrembleBodySlimJim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/JellyTypes/LazyTrembleHeadFatty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/JellyTypes/LazyTrembleHeadSlimJim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/JellyTypes/LazyTrembleTailFatty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/JellyTypes/LazyTrembleTailSlimJim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/JellyTypes/Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/PointWithHorizontalPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/PointWithVerticalPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/java/com/nightonke/jellytogglebutton/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/res/values/attrs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jellytogglebutton/src/test/java/com/nightonke/jellytogglebutton/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/gradle-mvn-push.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/niftyDialog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/androidTest/java/com/niftymodaldialogeffects/lib/ApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/java/com/niftymodaldialogeffects/ColorUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/java/com/niftymodaldialogeffects/Effectstype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/java/com/niftymodaldialogeffects/NiftyDialogBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/java/com/niftymodaldialogeffects/effects/BaseEffects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/java/com/niftymodaldialogeffects/effects/FadeIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/java/com/niftymodaldialogeffects/effects/Fall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/java/com/niftymodaldialogeffects/effects/FlipH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/java/com/niftymodaldialogeffects/effects/FlipV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/java/com/niftymodaldialogeffects/effects/NewsPaper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/java/com/niftymodaldialogeffects/effects/RotateBottom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/java/com/niftymodaldialogeffects/effects/RotateLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/java/com/niftymodaldialogeffects/effects/Shake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/java/com/niftymodaldialogeffects/effects/SideFall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/java/com/niftymodaldialogeffects/effects/SlideBottom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/java/com/niftymodaldialogeffects/effects/SlideLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/java/com/niftymodaldialogeffects/effects/SlideRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/java/com/niftymodaldialogeffects/effects/SlideTop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/java/com/niftymodaldialogeffects/effects/Slit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/res/drawable/btn_press.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/res/drawable/btn_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/res/drawable/btn_unpress.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/res/drawable/dialog_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/res/layout/dialog_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/res/values-v11/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/res/values-v14/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/res/values-w360dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/res/values-w480dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/res/values-w500dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/res/values-w600dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/res/values-w720dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/niftyDialog/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/assets/fonts/AvenirLTStd-Roman.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/assets/fonts/NotoSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/assets/fonts/NotoSerif-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/assets/fonts/SignPainter-HouseScript.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/assets/fonts/text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/CustomDialog/AnimatedProgress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/CustomTextView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/Indicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/ProgressIndicatorView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/BallBeatIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/BallClipRotateIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/BallClipRotateMultipleIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/BallClipRotatePulseIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/BallGridBeatIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/BallGridPulseIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/BallPulseIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/BallPulseRiseIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/BallPulseSyncIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/BallRotateIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/BallScaleIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/BallScaleMultipleIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/BallScaleRippleIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/BallScaleRippleMultipleIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/BallSpinFadeLoaderIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/BallTrianglePathIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/BallZigZagDeflectIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/BallZigZagIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/CubeTransitionIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/LineScaleIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/LineScalePartyIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/LineScalePulseOutIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/LineScalePulseOutRapidIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/LineSpinFadeLoaderIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/PacmanIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/SemiCircleSpinIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/SquareSpinIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/java/com/CustomProgress/indicators/TriangleSkewSpinIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/res/drawable/dialog_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/res/layout/custom_progress.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/res/values/attrs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress-library/src/main/res/values/style.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="3212d6160204" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/GroupFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/UpdateLight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/EditGroupAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5500">
+              <caret line="336" column="22" selection-start-line="332" selection-start-column="7" selection-end-line="336" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="980">
+              <caret line="49" column="42" selection-start-line="27" selection-start-column="4" selection-end-line="49" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_helper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/EditDeviceFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17660">
+              <caret line="950" column="29" selection-start-line="950" selection-start-column="20" selection-end-line="950" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/edit_group_list_item.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1200">
+              <caret line="60" column="38" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="38" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>JellyToggleButton</find>
+      <find>switchStatus</find>
+      <find>set_level</find>
+      <find>groupCustomize</find>
+      <find>showDialog</find>
+      <find>Toast</find>
+      <find>selectDevice</find>
+      <find>group_list_item</find>
+      <find>createGroupDeviceList</find>
+      <find>groupDeviceList</find>
+      <find>removeDevice</find>
+      <find>showAlert(String message)</find>
+      <find>showAlert</find>
+      <find>calligraphy</find>
+      <find>buildToolsVersion</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/niftyDialog/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/progress-library/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/rounded_button_yellow.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/dashboard_list_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/create_group_list_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/device_list_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_dashboard.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_edit_device.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_group.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/light_list_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_edit_group.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/group_list_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/AddDeviceFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/customize_group.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_create_group.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/edit_group_list_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/GroupAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/GroupFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/EditGroupAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/IndividualLightAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/LightListAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/EditDeviceFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/DashboardItemAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/cenzer/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/EditGroupFragment.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="52" />
+    <option name="width" value="1535" />
+    <option name="height" value="848" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Cenzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cenzer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cenzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cenzer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cenzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cenzer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cenzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cenzer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cenzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cenzer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cenzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cenzer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cenzer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cenzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cenzer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cenzer" type="462c0819:PsiDirectoryNode" />
+              <item name="Adapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cenzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cenzer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cenzer" type="462c0819:PsiDirectoryNode" />
+              <item name="Fragments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cenzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cenzer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cenzer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cenzer" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Nexus_5_API_27" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-02-07T06:31:36.599Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-hdpi" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68376f7c-7991-4965-b6ff-7a5344cdcac2" name="Default Changelist" comment="" />
+      <created>1578900909619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578900909619</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3207262" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" weight="0.46088436" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.45755967" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32891247" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" weight="0.18700266" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3282313" />
+      <window_info anchor="bottom" id="Debug" order="8" />
+      <window_info anchor="bottom" id="Android Profiler" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" weight="0.32975152" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.32975152" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/ic_launcher_background.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/ic_launcher-web.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/navigation.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="e#232#252#0" expanded="true" />
+            <element signature="e#393#418#0" expanded="true" />
+            <element signature="e#567#596#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/spinerlayout.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$USER_HOME$/Android/Sdk/sources/android-28/android/bluetooth/BluetoothAdapter.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/preloaded_fonts.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/font_certs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="62" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/add_device_dialog_layout.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/customize_grouped_light.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="125" column="12" selection-start-line="125" selection-start-column="12" selection-end-line="125" selection-end-column="12" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/AddDeviceFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1935">
+          <caret line="157" column="25" selection-start-line="157" selection-start-column="8" selection-end-line="157" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/DashboardFragmentBackUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/AddDeviceListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3497">
+          <caret line="150" column="29" selection-start-line="150" selection-start-column="29" selection-end-line="150" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/customize_group.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="78" column="34" lean-forward="true" selection-start-line="78" selection-start-column="34" selection-end-line="78" selection-end-column="34" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/light_list_item.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/grouped_light_list_item.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/dashboard_list_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="41" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_edit_device.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="197" column="42" selection-start-line="197" selection-start-column="33" selection-end-line="197" selection-end-column="42" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/create_group_list_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="58" column="34" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="34" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_edit_group.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="162" column="44" selection-start-line="162" selection-start-column="44" selection-end-line="162" selection-end-column="44" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/HelperActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_group.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="42" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="42" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/group_list_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_create_group.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="66" column="47" selection-start-line="66" selection-start-column="32" selection-end-line="66" selection-end-column="47" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/AddDeviceSpinerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="98" column="29" lean-forward="true" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
+          <folding>
+            <element signature="e#3161#3162#0" expanded="true" />
+            <element signature="e#3213#3214#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/CreateGroupAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-452">
+          <caret line="89" column="59" selection-start-line="89" selection-start-column="44" selection-end-line="89" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/DashboardItemAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47">
+          <caret line="512" column="14" selection-start-line="512" selection-start-column="14" selection-end-line="512" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/GroupAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1473">
+          <caret line="234" column="50" lean-forward="true" selection-start-line="234" selection-start-column="50" selection-end-line="234" selection-end-column="50" />
+          <folding>
+            <element signature="e#9477#9478#0" expanded="true" />
+            <element signature="e#9501#9502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/GroupedLightAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-767">
+          <caret line="79" column="54" lean-forward="true" selection-start-line="79" selection-start-column="54" selection-end-line="79" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/LightListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1802">
+          <caret line="129" column="37" lean-forward="true" selection-start-line="129" selection-start-column="37" selection-end-line="129" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/IndividualLightAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4155">
+          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/CreateGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2253">
+          <caret line="74" column="60" lean-forward="true" selection-start-line="74" selection-start-column="60" selection-end-line="74" selection-end-column="60" />
+          <folding>
+            <element signature="e#8761#8762#0" expanded="true" />
+            <element signature="e#8808#8809#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/CustomizeGroupFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/CustomizeLightFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/DashboardFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2853">
+          <caret line="66" column="18" selection-start-line="66" selection-start-column="18" selection-end-line="66" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/EditGroupFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12500">
+          <caret line="686" selection-start-line="686" selection-end-line="686" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/GroupFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/UpdateLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Adapter/EditGroupAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5500">
+          <caret line="336" column="22" selection-start-line="332" selection-start-column="7" selection-end-line="336" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="49" column="42" selection-start-line="27" selection-start-column="4" selection-end-line="49" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_helper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/cenzer/Fragments/EditDeviceFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17660">
+          <caret line="950" column="29" selection-start-line="950" selection-start-column="20" selection-end-line="950" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/edit_group_list_item.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="60" column="38" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="38" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

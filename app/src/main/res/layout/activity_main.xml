@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/main_toolbar"
+        android:layout_height="60dp"
+        android:layout_width="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        android:background="@color/white"
+      >
+<ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:src="@drawable/logo"
+    android:gravity="end"/>
+<!--        <com.cenzer.CustomView.LogoText-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:text="@string/app_name"-->
+<!--            android:textSize="40sp"-->
+<!--            android:layout_gravity="center"-->
+<!--            android:layout_marginStart="30dp"-->
+<!--            android:gravity="center"-->
+<!--            android:textColor="@color/colorPrimaryDark"-->
+<!--            android:id="@+id/toolbar_title" />-->
+
+
+    </android.support.v7.widget.Toolbar>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <com.cenzer.CustomView.RoundLinerLayoutNormal
+            android:layout_width="@dimen/main_layout_width"
+            android:layout_height="@dimen/main_layout_height"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:visibility="gone"
+            android:layout_margin="5dp"
+
+            >
+
+            <ImageButton
+                android:layout_width="@dimen/main_image_size"
+                android:layout_height="@dimen/main_image_size"
+                android:clickable="false"
+                android:layout_marginTop="10dp"
+                android:focusable="false"
+                android:background="@android:color/transparent"
+                android:src="@drawable/ic_my_network"/>
+
+            <com.cenzer.CustomView.NormalText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="My Network"
+                android:textAllCaps="true"
+                android:gravity="center"
+                android:textColor="@color/white"
+
+                android:textSize="@dimen/app_text_size" />
+
+        </com.cenzer.CustomView.RoundLinerLayoutNormal>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+            android:orientation="horizontal">
+
+<LinearLayout
+    android:layout_width="@dimen/main_layout_width"
+    android:layout_height="@dimen/main_layout_height"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_marginEnd="-5dp"
+    android:background="@drawable/shadow_16"
+    android:backgroundTint="@color/colorPrimary"
+    android:id="@+id/my_network_layout"
+    >
+
+    <ImageButton
+    android:layout_width="@dimen/main_image_size"
+    android:layout_height="@dimen/main_image_size"
+    android:tint="@color/white"
+    android:clickable="false"
+    android:layout_marginTop="10dp"
+    android:focusable="false"
+    android:background="@android:color/transparent"
+    android:src="@drawable/ic_my_network"/>
+
+    <com.cenzer.CustomView.NormalText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="My Network"
+        android:textAllCaps="true"
+        android:gravity="center"
+        android:textColor="@color/white"
+
+        android:textSize="@dimen/app_text_size" />
+
+</LinearLayout>
+    <LinearLayout
+    android:layout_width="@dimen/main_layout_width"
+    android:layout_height="@dimen/main_layout_height"
+    android:gravity="center"
+        android:orientation="vertical"
+        android:id="@+id/smart_device_layout"
+        android:layout_marginStart="-5dp"
+        android:backgroundTint="@color/colorPrimary"
+        android:background="@drawable/shadow_16">
+<ImageButton
+    android:layout_width="@dimen/main_image_size"
+    android:layout_height="@dimen/main_image_size"
+    android:tint="@color/white"
+    android:clickable="false"
+    android:focusable="false"
+    android:layout_centerHorizontal="true"
+    android:background="@android:color/transparent"
+    android:src="@drawable/ic_creativity"/>
+
+        <com.cenzer.CustomView.NormalText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="15dp"
+            android:singleLine="true"
+
+            android:text="Smart Device"
+            android:textAllCaps="true"
+            android:textColor="@color/white"
+            android:textSize="@dimen/app_text_size" />
+</LinearLayout>
+
+</LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    android:gravity="center"
+    android:orientation="horizontal">
+<LinearLayout
+    android:layout_width="@dimen/main_layout_width"
+    android:layout_height="@dimen/main_layout_height"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_marginEnd="-5dp"
+    android:background="@drawable/shadow_16"
+    android:id="@+id/dashboard_layout"
+    android:backgroundTint="@color/colorPrimary"
+    >
+<ImageButton
+    android:layout_width="@dimen/main_image_size"
+    android:layout_height="@dimen/main_image_size"
+    android:tint="@color/white"
+    android:clickable="false"
+    android:focusable="false"
+    android:background="@android:color/transparent"
+    android:src="@drawable/ic_dashboard_black_24dp"/>
+<com.cenzer.CustomView.NormalText
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="@dimen/app_text_size"
+    android:text="DashBoard"
+    android:textAllCaps="true"
+    android:textColor="@color/white"
+    />
+</LinearLayout>
+
+    <LinearLayout
+    android:layout_width="@dimen/main_layout_width"
+    android:layout_height="@dimen/main_layout_height"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_marginStart="-5dp"
+        android:background="@drawable/shadow_16"
+    android:id="@+id/group_layout"
+        android:backgroundTint="@color/colorPrimary"
+        >
+<ImageButton
+    android:layout_width="@dimen/main_image_size"
+    android:layout_height="@dimen/main_image_size"
+    android:tint="@color/white"
+    android:clickable="false"
+    android:focusable="false"
+    android:background="@android:color/transparent"
+    android:src="@drawable/ic_groups"/>
+<com.cenzer.CustomView.NormalText
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="@dimen/app_text_size"
+    android:text="Groups"
+    android:textAllCaps="true"
+
+    android:textColor="@color/white"
+    />
+</LinearLayout>
+
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="@dimen/main_layout_width"
+            android:layout_height="@dimen/main_layout_height"
+            android:gravity="center"
+            android:layout_marginEnd="-5dp"
+            android:id="@+id/demo_layout"
+            android:orientation="vertical"
+            android:background="@drawable/shadow_16"
+            android:backgroundTint="@color/colorPrimary">
+            <ImageButton
+                android:layout_width="@dimen/main_image_size"
+                android:layout_height="@dimen/main_image_size"
+                android:tint="@color/white"
+                android:clickable="false"
+                android:focusable="false"
+                android:background="@android:color/transparent"
+                android:src="@drawable/ic_demo"/>
+            <com.cenzer.CustomView.NormalText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/app_text_size"
+                android:text="Demo"
+                android:textAllCaps="true"
+                android:textColor="@color/white"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="@dimen/main_layout_width"
+            android:layout_height="@dimen/main_layout_height"
+            android:visibility="invisible"
+            android:layout_marginStart="-5dp"
+            android:background="@drawable/rounded_button_yellow">
+            <ImageButton
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:tint="@color/white"
+                android:layout_marginTop="20dp"
+                android:layout_centerHorizontal="true"
+                android:background="@android:color/transparent"
+                android:src="@drawable/ic_groups"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/app_text_size"
+                android:text="Groups"
+                android:textAllCaps="true"
+                android:layout_marginBottom="15dp"
+                android:textColor="@color/white"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+  <!--  <android.support.design.widget.BottomNavigationView
+        android:id="@+id/navigation"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="0dp"
+        android:layout_marginEnd="0dp"
+        android:background="?android:attr/windowBackground"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:menu="@menu/navigation" />
+-->
+</LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:orientation="horizontal"
+android:layout_width="match_parent"
+android:layout_margin="5dp"
+android:id="@+id/friends_request_layout"
+android:layout_height="80dp">
+
+<ImageButton
+    android:layout_width="@dimen/detail_circle_size"
+    android:id="@+id/light_details"
+    android:layout_margin="5dp"
+    android:layout_centerVertical="true"
+    android:layout_alignParentStart="true"
+    android:background="@drawable/white_circle_border"
+    android:layout_height="@dimen/detail_circle_size"/>
+<com.cenzer.CustomView.NormalText
+    android:layout_width="wrap_content"
+    android:layout_height="30dp"
+    android:ellipsize="end"
+    android:singleLine="true"
+    android:id="@+id/dashboard_deviceName"
+    android:textSize="@dimen/medium_app_text_size"
+    android:layout_marginStart="10dp"
+    android:layout_toEndOf="@+id/light_details"
+    android:layout_toStartOf="@+id/review_2"
+    android:text="Kitchen Light GP 1"
+    />
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:orientation="horizontal"
+     android:gravity="center_vertical"
+     android:layout_alignParentBottom="true"
+     android:layout_toEndOf="@+id/light_details"
+     android:layout_marginBottom="2dp"
+     android:weightSum="2">
+
+
+<Button
+    android:layout_width="0dp"
+    android:layout_weight="1"
+    android:layout_height="50dp"
+    android:textColor="@color/white"
+    android:id="@+id/individual_customize"
+    android:text="Customize"
+    android:elevation="5dp"
+    style="@style/HeaderText"
+    android:layout_margin="5dp"
+    android:padding="2dp"
+    android:background="@drawable/add_corner_back"
+    android:textSize="@dimen/app_text_size"
+    android:backgroundTint="@color/colorPrimary"
+    />
+
+
+     <com.nightonke.jellytogglebutton.JellyToggleButton
+         android:layout_width="0dp"
+         android:layout_height="wrap_content"
+         android:layout_weight="1"
+         android:checked="true"
+         android:layout_marginStart="5dp"
+         android:layout_marginEnd="5dp"
+         app:jtbLeftText="Off"
+         android:id="@+id/status_switch"
+         app:jtbLeftTextSize="@dimen/app_text_size"
+         app:jtbRightTextSize="@dimen/app_text_size"
+         app:jtbRightText="On"
+         app:jtbTextMarginLeft="10dp"
+         app:jtbTextMarginRight="10dp"
+         app:jtbJelly="active_tremble_body_slim_jim"
+         app:jtbLeftBackgroundColor="@color/gray"
+         app:jtbRightBackgroundColor="@color/colorPrimary"
+         app:jtbLeftThumbColor="@color/colorPrimary"
+         app:jtbRightThumbColor="@android:color/white"
+         app:jtbLeftTextColor="@android:color/white"
+         app:jtbRightTextColor="@color/colorPrimary"
+         />
+ </LinearLayout>
+
+</RelativeLayout>
